@@ -1,0 +1,34 @@
+/*Code Columns -------------------------------------*/
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex-grow: 1;
+  width: 100%;
+  padding: 10px;
+  margin: 25px;
+  border: 2px solid black;
+  background-color: var(--Color-2);
+}
+
+.item:nth-child(even) {
+  background-color: var(--Color-1);
+}
+
+
+
+
+
+
+
+
+
+
+
+/*einde Code Columns --------------------------------*/

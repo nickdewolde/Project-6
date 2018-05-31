@@ -1,0 +1,62 @@
+/* Orgineel */
+:root {
+  --Color-1: #EFE4B0;
+  --Color-2: #FDDD93;
+  --Color-hover: #FFCE5E;
+}
+
+/* Teal - tangerine */
+:root {
+  --Color-1: #07889B;
+  --Color-2: #E37222;
+  --Color-hover: #EEAA7B;
+}
+
+/* Tan - Oxblood */
+:root {
+  --Color-1: #C09F80;
+  --Color-2: #76323F;
+  --Color-hover: #935D67;
+}
+
+/* Powder - peach */
+:root {
+  --Color-1: #BFD8D2;
+  --Color-2: #FEDCD2;
+  --Color-hover: #FFC7B7;
+}
+
+/* Eggplant - sand */
+:root {
+  --Color-1: #49274A;
+  --Color-2: #F4DECB;
+  --Color-hover: #F7D2B2;
+}
+
+/* Denim - marigold */
+:root {
+  --Color-1: #1A2930;
+  --Color-2: #F7CE3E;
+  --Color-hover: #F7DA74;
+}
+
+/* Indigo - crimson sky */
+:root {
+  --Color-1: #30415D;
+  --Color-2: #CF6766;
+  --Color-hover: #ED9190;
+}
+
+/* Peach - butter */
+:root {
+  --Color-1: #FEA680;
+  --Color-2: #FEDC3D;
+  --Color-hover: #FFED99;
+}
+
+/* Rust - mint */
+:root {
+  --Color-1: #B56357;
+  --Color-2: #B4DBC0;
+  --Color-hover: #7FD89B;
+}

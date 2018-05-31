@@ -1,0 +1,74 @@
+/* Formulier */
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+/* voor formulier*/
+.item {
+  flex-grow: 1;
+  width: 22%;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid black;
+  background-color: var(--Color-2);
+}
+
+.item:nth-child(even) {
+  background-color: var(--Color-1);
+}
+/*einde code formulier*/
+
+
+/*code column*/
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.container3 {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 50%;
+}
+.breedte_website2{
+  width: 60%;
+  margin: 50px auto;
+  text-align: center;
+}
+/*einde code column*/
+
+/* inhoud column maps*/
+.iframe_Maps{
+  width: 95%;
+  height: 80%;
+  margin-bottom: 25px;
+}
+/* einde inhoud column maps*/
+
+
+/* inhoud column saxenburgh groep*/
+.saxenburgh_logo{
+  width: 95%;
+  border: 1px solid black;
+  margin-bottom: 1%;
+}
+.kop_column3{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: 10px;
+  padding: 7px;
+  font-size: 2em;
+}
+.a_column3{
+  font-size: 1.5em;
+}
+
+/* einde inhoud column saxenburgh groep*/

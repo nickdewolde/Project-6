@@ -1,0 +1,33 @@
+/*Code Columns -------------------------------------*/
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex-grow: 1;
+  width: 22%;
+  padding: 20px;
+  margin: 50px;
+  border: 2px solid black;
+  background-color: var(--Color-2);
+}
+
+.item:nth-child(even) {
+  background-color: var(--Color-1);
+}
+
+#test {
+  display: inline-block;
+}
+
+
+#border {
+  border: 2px solid black;
+}
+
+/*einde Code Columns --------------------------------*/
