@@ -53,7 +53,8 @@
 :root {
   --Color-1: #EFE4B0;
   --Color-2: #FDDD93;
-  --Color-hover: #FFCE5E;
+  --Color-hover1: #E2D491;
+  --Color-hover2: #FFCE5E;
 }
 
 .breedte_website {
@@ -121,11 +122,11 @@
 
 #navigatie ul a:hover {
   color: black;
-  background-color: var(--Color-hover);
+  background-color: var(--Color-hover2);
 }
 
 .active {
-  background-color: var(--Color-hover);
+  background-color: var(--Color-hover2);
 }
 
 #logo_center {
