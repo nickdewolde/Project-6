@@ -164,6 +164,18 @@
   border: 2px solid black;
   border-width: 0px 2px;
 }
+
+.a_footer3 {
+  text-decoration: none;
+  color: black;
+}
+
+.a_footer3:hover {
+  opacity: 0.7;
+}
+.fa{
+  margin-right: 5px;
+}
 /* --- Einde footer items --- */
 
 /* --- Responsive code (max-width: 1200px) --- */
